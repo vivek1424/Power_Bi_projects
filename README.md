@@ -1,2 +1,2 @@
 # Power_Bi_projects
-Contains the reports and dashboards made using power bi tool. 
+This repository contains various projects containing the data visualization, having reports and dashboards made with the use of power bi tool.  
